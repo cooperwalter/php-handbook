@@ -9,4 +9,4 @@ PHP from the PHP Handbook published by [FreeCodeCamp](https://www.freecodecamp.o
 docker-compose up
 ```
 
-Place PHP and html files in the `app/public` directory.
+Place PHP and html files in the `app/public` directory, then navigate to `localhost:8089` in your browser.
